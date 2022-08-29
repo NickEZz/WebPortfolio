@@ -61,7 +61,7 @@ section .title::before{
     position: absolute;
     bottom: 0px;
     left: 50%;
-    width: 180px;
+    width: 240px;
     height: 3px;
     background: #111;
     transform: translateX(-50%);
@@ -206,7 +206,7 @@ section .title::after{
 
 /* about section styling */
 .about .title::after{
-    content: "who i am";
+    content: "Minimalistic black";
 }
 .about .about-content .left{
     width: 45%;
