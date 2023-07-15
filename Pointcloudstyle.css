@@ -1,4 +1,4 @@
-/* fontit testi */
+/* fontit */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
 
 *{
@@ -61,7 +61,7 @@ section .title::before{
     position: absolute;
     bottom: 0px;
     left: 50%;
-    width: 220px;
+    width: 180px;
     height: 3px;
     background: #111;
     transform: translateX(-50%);
@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/2dplatformer-2.png") no-repeat center;
+    background: url("images/PointCloud2.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -206,7 +206,7 @@ section .title::after{
 
 /* about section styling */
 .about .title::after{
-    content: "Jump and die";
+    content: "Winforms Component";
 }
 .about .about-content .left{
     width: 45%;
